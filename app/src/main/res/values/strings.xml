@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProfileCreator</string>
+    <string name="website">Website</string>
+    <string name="pass">Password</string>
+    <string name="email">Email Address</string>
+    <string name="signin">SignIn</string>
+    <string name="chooseOne">Select Image From Gallery Or via Camera</string>
+    <string name="signInDescription">Your super-awesome portfolio has been successfully submitted! the preview below is what community will see!</string>
+    <string name="submit">Submit</string>
+    <string name="profileCreation">Profile Creation</string>
+    <string name="profileDesctription">Use the form below to submit your portfolio. an email and password are required</string>
+    <string name="firstName">First Name</string>
+    <string name="hidePass">Hide password</string>
+    <string name="showPass">Show password</string>
+    <string name="checkInputsMsg">check your inputs and try again</string>
+</resources>
